@@ -12,4 +12,3 @@ int fun()
 {
 	printf("a=%d\n",a);
 }
-
